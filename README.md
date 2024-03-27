@@ -46,16 +46,16 @@ Add additional elements such as text boxes, images, and shapes to provide contex
 
 types of informations used in the dashboard :
 
-Total Employees
-male
-female
-job level
-cab availability
-on service
-will retire soon
-service year
-due for promotion
-not due
+Total Employees,
+male,
+female,
+job level,
+cab availability,
+on service,
+will retire soon,
+service year,
+due for promotion,
+not due.
 
 created new measures using dax formula and made the hr dashboard dynmaic and injteractive to the user. they can find all the requirement needed in the dashboard and check anything and work on it for the business insights, recession,opening jobs, hikes to the employess.
 
