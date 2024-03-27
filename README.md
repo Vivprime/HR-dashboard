@@ -57,7 +57,7 @@ service year,
 due for promotion,
 not due.
 
-created new measures using dax formula and made the hr dashboard dynmaic and interactive to the user. They can find all the requirement needed in the dashboard and check anything and work on it for the business insights, recession,opening jobs, hikes to the employess.
+created new measures using dax formula and made the hr dashboard dynamic and interactive to the user. They can find all the requirement needed in the dashboard and check anything and work on it for the business insights, recession,opening jobs, hikes to the employess.
 
 
 
